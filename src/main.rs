@@ -1,3 +1,4 @@
 fn main() {
-    todo!();
+    cli::cli();
+    print!("Hello, world!");
 }

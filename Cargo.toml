@@ -1,6 +1,21 @@
+[workspace]
+members = [
+    "crates/gui",
+    "crates/cli",
+    "crates/mcp",
+    "crates/cli"
+]
 [package]
 name = "AI-sync"
 version = "0.1.0"
 edition = "2024"
 
+[build]
+
+
+
 [dependencies]
+cli = { path = "crates/cli" }
+
+
+[dev-dependencies]

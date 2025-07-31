@@ -46,4 +46,4 @@ This project is licensed under the terms specified in the LICENSE file.
 
 ---
 
-*AI-Sync: Making AI assistance as accessible as your operating system itself.*
+_AI-Sync: Making AI assistance as accessible as your operating system itself._
